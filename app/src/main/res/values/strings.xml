@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GradientApp</string>
+    <string name="hello">Welcome to Gradient!</string>
+</resources>
