@@ -1,2 +1,2 @@
 # android-gradient
-Gradient colors applied to layout
+Sample project applying gradient colors to a Layout
